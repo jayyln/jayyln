@@ -6,4 +6,7 @@
 <h3>tools</h3>
 <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,visualstudio,raspberrypi,git">
 <h3>stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=jayyln&theme=dark">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayyln&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayyln&theme=dark">
+</div>
